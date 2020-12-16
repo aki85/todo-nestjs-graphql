@@ -14,7 +14,7 @@ yarn
 
 ### dynamodb
 
-yarn run dynamo
+yarn run dynamo  
 yarn run dynamo-win
 
 ### create local table
