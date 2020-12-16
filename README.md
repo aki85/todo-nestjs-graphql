@@ -14,7 +14,9 @@ yarn
 
 ### dynamodb
 
-yarn run dynamo  
+#### mac
+yarn run dynamo
+#### windows wsl
 yarn run dynamo-win
 
 ### create local table
