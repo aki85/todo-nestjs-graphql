@@ -15,9 +15,9 @@ yarn
 ### dynamodb
 
 #### mac
-yarn run dynamo
+yarn dynamo
 #### windows wsl
-yarn run dynamo-win
+yarn dynamo-win
 
 ### create local table
 
@@ -25,4 +25,4 @@ aws dynamodb create-table --cli-input-json file://./migrations/todoTable.json --
 
 
 ### dev server
-yarn run dev
+yarn dev
